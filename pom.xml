@@ -21,5 +21,17 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    
+    <!-- apache 对字符串等等的操作的扩展封装 -->
+    <dependency>
+		<groupId>org.apache.commons</groupId>
+		<artifactId>commons-lang3</artifactId>
+		<version>3.3.2</version>
+	</dependency>
+	<dependency>
+		<groupId>org.apache.commons</groupId>
+		<artifactId>commons-collections4</artifactId>
+		<version>4.0</version>
+	</dependency>
   </dependencies>
 </project>
